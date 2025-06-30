@@ -59,7 +59,7 @@ Each program:
 ## Sample Output
 
 ### FCFS Output
-```text
+
 First Come First Serve (FCFS)
 ![Screenshot 2025-06-30 172409](https://github.com/user-attachments/assets/46428a30-465b-4e4b-9879-21734554e8e4)
 
