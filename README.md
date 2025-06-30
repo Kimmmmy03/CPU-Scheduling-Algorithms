@@ -6,7 +6,7 @@ This project is created and maintained by **Akmal Hakimi bin Abd Rashid**
 ---
 
 ## Introduction  
-**CPU Scheduling Algorithms** is a Java-based console application developed as part of the **ISB16204 - Computer Organization and Operating Systems** course at **Universiti Kuala Lumpur (UniKL)** for the June 2024 session. The project was completed under the guidance of:
+**CPU Scheduling Algorithms** is a Java-based console application developed as part of the **ISB16204 - Computer Organization and Operating Systems** course at **Universiti Kuala Lumpur (UniKL)** for the March 2024 session. The project was completed under the guidance of:
 
 - **Course Lecturer**: Prof. Roslan
 
@@ -61,12 +61,10 @@ Each program:
 ### FCFS Output
 ```text
 First Come First Serve (FCFS)
+![Screenshot 2025-06-30 172409](https://github.com/user-attachments/assets/46428a30-465b-4e4b-9879-21734554e8e4)
 
-Process     Arrival     Burst       Start       Complete        Waiting
-1           0           5           0           5               0
-2           2           3           5           8               3
-...
+Short Job First (SJF)
+![Screenshot 2025-06-30 172415](https://github.com/user-attachments/assets/5ae02001-d232-4f85-9f93-ca68794b9d5a)
 
-Total Waiting Time: 5.00
-Number of Processes: 3
-Average Waiting Time: 1.67
+Round Robin (RR)
+![Screenshot 2025-06-30 172424](https://github.com/user-attachments/assets/f98b32c5-6554-4c3a-9f34-e32eb6fe1573)
