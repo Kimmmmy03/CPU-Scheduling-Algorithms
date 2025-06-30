@@ -58,18 +58,15 @@ Each program:
 
 ## Sample Output
 
+### First Come First Serve (FCFS) Output
+![FCFS Output](https://github.com/user-attachments/assets/46428a30-465b-4e4b-9879-21734554e8e4)
 
-###First Come First Serve (FCFS) Output
-![Screenshot 2025-06-30 172409](https://github.com/user-attachments/assets/46428a30-465b-4e4b-9879-21734554e8e4)
+---
 
+### Short Job First (SJF) Output
+![SJF Output](https://github.com/user-attachments/assets/5ae02001-d232-4f85-9f93-ca68794b9d5a)
 
+---
 
-
-###Short Job First (SJF) Output
-![Screenshot 2025-06-30 172415](https://github.com/user-attachments/assets/5ae02001-d232-4f85-9f93-ca68794b9d5a)
-
-
-
-###Round Robin (RR) Output
-![Screenshot 2025-06-30 172424](https://github.com/user-attachments/assets/f98b32c5-6554-4c3a-9f34-e32eb6fe1573)
-
+### Round Robin (RR) Output
+![RR Output](https://github.com/user-attachments/assets/f98b32c5-6554-4c3a-9f34-e32eb6fe1573)
